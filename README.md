@@ -62,6 +62,15 @@ For example :
 	language/en.ini
 	language/de.ini
 	language/tr.ini
+
+<h3>Example ini file</h3>
+<pre>
+;
+; English Language
+;
+hello = Hello World
+my_text = "I'm %s years old. My uncle is %s."
+</pre>
 	
 <h3>Example 1</h3>
 ```no-highlight
