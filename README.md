@@ -64,7 +64,7 @@ For example :
 	language/tr.ini
 	
 <h3>Example 1</h3>
-<pre>
+```no-highlight
 <?php
     // Normal usage of the class
     // You can change the language by sending 2 letter language name in any page.
@@ -99,7 +99,7 @@ For example :
     </body>
 </html>
 </pre>
-
+```
 
 <h3>Example 2</h3>
 <pre>
