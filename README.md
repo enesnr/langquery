@@ -1,7 +1,7 @@
 langquery
 =========
 
- LangQuery - PHP Multiple Language Class with Parameters
+ LangQuery - Free PHP & JS Multiple Language Class with Parameters
 
 I've looked everywhere for language classes before writing this class but I realized there is no class doing everything i need as easy as in my head.
 So I started to write easiest and the best possible language class and I think this class will be number one language class.
