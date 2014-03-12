@@ -65,9 +65,7 @@ For example :
 
 <h3>Example ini file</h3>
 <pre>
-;
-; English Language
-;
+; English Language 
 hello = Hello World
 my_text = "I'm %s years old. My uncle is %s."
 </pre>
