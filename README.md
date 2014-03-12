@@ -98,11 +98,10 @@ For example :
 		</p>
     </body>
 </html>
-</pre>
 ```
 
 <h3>Example 2</h3>
-<pre>
+```no-highlight
 <?php
     // Using Language class inside strings.
     // Include LangQuery class
@@ -130,11 +129,10 @@ For example :
 	</html>
     ")
 ?>
-</pre>
-
+```
 
 <h3>Example 3</h3>
-<pre>
+```no-highlight
 <?php
     // In this example author should manage the saving prosedures.
     // Language will not be remembered by cookies.
@@ -175,10 +173,10 @@ For example :
 	</p>
     </body>
 </html>
-</pre>
+```
 
 <h3>Example 4</h3>
-<pre>
+```no-highlight
 <?php
     // Using Javascript
     // You can change the language by sending 2 letter language name in any page.
@@ -212,5 +210,4 @@ For example :
 		</p>
     </body>
 </html>
-</pre>
-
+```
